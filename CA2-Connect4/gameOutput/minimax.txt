@@ -1,0 +1,73 @@
+6*7
+
+3 runs
+Normal minimax with depth 1:
+Time: 0.015411152999755965
+Win Percentage: 1.0
+
+Normal minimax with depth 3:
+Time: 0.44753633466643805
+Win Percentage: 0.6666666666666666
+
+Normal minimax with depth 5:
+Time: 16.6706615209993
+Win Percentage: 0.6666666666666666
+
+200 runs
+Normal minimax with depth 1:
+Time: 0.01530432531497354
+Win Percentage: 0.74
+
+Normal minimax with depth 3:
+Time: 0.42939414871997544
+Win Percentage: 0.78
+
+7*8
+
+3 runs
+
+Normal minimax with depth 1:
+Time: 0.029166131000238238
+Win Percentage: 0.6666666666666666
+
+Normal minimax with depth 3:
+Time: 0.9657592409997354
+Win Percentage: 0.6666666666666666
+
+Normal minimax with depth 5:
+Time: 63.476672618333396
+Win Percentage: 0.3333333333333333
+
+200 runs
+Normal minimax with depth 1:
+Time: 0.025413881399972523
+Win Percentage: 0.765
+
+Normal minimax with depth 3:
+Time: 1.0827856283149868
+Win Percentage: 0.755
+
+7*10
+
+3 runs
+
+Normal minimax with depth 1:
+Time: 0.060835942666623545
+Win Percentage: 1.0
+
+Normal minimax with depth 3:
+Time: 3.1864363726666247
+Win Percentage: 0.0
+Normal minimax with depth 5:
+Time: 232.70711909833457
+Win Percentage: 0.6666666666666666
+
+200 runs
+
+Normal minimax with depth 1:
+Time: 0.0477936586850592
+Win Percentage: 0.795
+
+Normal minimax with depth 3:
+Time: 2.734586051679835
+Win Percentage: 0.665

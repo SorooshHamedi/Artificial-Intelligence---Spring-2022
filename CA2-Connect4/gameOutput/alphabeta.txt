@@ -1,0 +1,89 @@
+6*7
+3 runs
+
+Alpha beta with depth 1:
+Time: 0.01639553066706867
+Win Percentage: 1.0
+
+Alpha beta with depth 3:
+Time: 0.18588668666658728
+Win Percentage: 0.6666666666666666
+
+Alpha beta with depth 5:
+Time: 1.6714517923337553
+Win Percentage: 0.6666666666666666
+
+
+200 runs
+Alpha beta with depth 1:
+Time: 0.01654044289000012
+Win Percentage: 0.8
+
+Alpha beta with depth 3:
+Time: 0.15962443161499323
+Win Percentage: 0.705
+
+7*8
+3 runs
+Alpha beta with depth 1:
+Time: 0.03057196533275904
+Win Percentage: 0.6666666666666666
+
+Alpha beta with depth 3:
+Time: 0.355089596333831
+Win Percentage: 1.0
+
+Alpha beta with depth 5:
+Time: 6.745888511666635
+Win Percentage: 0.6666666666666666
+
+200 runs
+
+Alpha beta with depth 1:
+Time: 0.025374813509915838
+Win Percentage: 0.71
+
+Alpha beta with depth 3:
+Time: 0.3666956615449271
+Win Percentage: 0.72
+
+7*10
+3 runs
+
+Alpha beta with depth 1:
+Time: 0.04476653600007315
+Win Percentage: 0.6666666666666666
+
+Alpha beta with depth 3:
+Time: 0.7081279030007863
+Win Percentage: 1.0
+Alpha beta with depth 5:
+Time: 18.58257378766636
+Win Percentage: 1.0
+
+200 runs
+Alpha beta with depth 1:
+Time: 0.04305027120999512
+Win Percentage: 0.815
+Alpha beta with depth 3:
+Time: 0.815150224140043
+Win Percentage: 0.655
+
+6*7
+3 runs
+
+Alpha beta with depth 7:
+Time: 31.248515442333883
+Win Percentage: 1.0
+
+7*8
+
+Alpha beta with depth 7:
+Time: 92.63715289533138
+Win Percentage: 1.0
+
+7*10
+
+Alpha beta with depth 7:
+Time: 461.94518521866604
+Win Percentage: 1.0
